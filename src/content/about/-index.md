@@ -2,7 +2,7 @@
 title: "Hello people, this is Carlos Bravo"
 meta_title: "About"
 description: "Learn more about this blog and its creator"
-image: "/images/cb-avatar.png"
+image: "/images/cb-avatar.jpg"
 draft: false
 ---
 

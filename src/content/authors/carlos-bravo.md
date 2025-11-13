@@ -1,7 +1,7 @@
 ---
 title: Carlos Bravo
 email: carlosn.bravor94@gmail.com
-image: "/images/cb-avatar.png"
+image: "/images/cb-avatar.jpg"
 description: Author of this blog
 social:
   - name: github
